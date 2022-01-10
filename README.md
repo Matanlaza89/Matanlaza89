@@ -4,9 +4,7 @@
 
 ![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.jpg)
 
-
-
-Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter, and.
+:Nerd Face: Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter.
 
 🎯 looking for a Junior position as an FPGA Engineer.
 
