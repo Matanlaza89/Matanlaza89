@@ -1,6 +1,8 @@
+# Hi , I'm Matan 👋
+
 ![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.jpg)
 
-# Hi there, I'm Matan Leizerovich 👋
+
 
 Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter, and looking for a Junior position as an FPGA Engineer.
 
