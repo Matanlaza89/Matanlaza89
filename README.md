@@ -4,7 +4,7 @@
 
 👱🏻 I am a people person and excel as a team player , curious self-learner who gets excited by challenges.
 
-⭐
+⭐ I shared my personal projects on an FPGA development kit in the VHDL.
 
 🎯 looking for a Junior position as an FPGA Engineer.
 
