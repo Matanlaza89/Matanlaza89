@@ -4,7 +4,8 @@
 
 
 
-Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter, and looking for a Junior position as an FPGA Engineer.
+Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter, and
+[Icons 🎯]looking for a Junior position as an FPGA Engineer.
 
 You can contact me on:  
 
