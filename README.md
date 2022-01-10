@@ -1,4 +1,4 @@
-![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.png)
+![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.jpg)
 
 # Hi there, I'm Matan Leizerovich 👋
 
