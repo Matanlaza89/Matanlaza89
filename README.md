@@ -2,7 +2,9 @@
 
 🤓 Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter.
 
-⭐ I am a people person and excel as a team player , curious self-learner who gets excited by challenges.
+👱🏻 I am a people person and excel as a team player , curious self-learner who gets excited by challenges.
+
+⭐
 
 🎯 looking for a Junior position as an FPGA Engineer.
 
