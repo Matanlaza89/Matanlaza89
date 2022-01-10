@@ -1,10 +1,8 @@
 # Hi , I'm Matan Leizerovich <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋
-
-![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.jpg)
-
 🤓 Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter.
+
+⭐ I am a people person and excel as a team player , curious self-learner who gets excited by challenges.
 
 🎯 looking for a Junior position as an FPGA Engineer.
 
