@@ -1,4 +1,4 @@
-# Hi , I'm Matan 👋
+# Hi , I'm Matan Leizerovich 👋
 
 ![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.jpg)
 
