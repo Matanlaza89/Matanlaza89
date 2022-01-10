@@ -1,10 +1,8 @@
-![natylaza89](https://raw.githubusercontent.com/natylaza89/natylaza89/main/banner.png)
+![matanlaza89](https://raw.githubusercontent.com/matanlaza89/matanlaza89/main/banner.png)
 
 # Hi there, I'm Matan Leizerovich 👋
 
-I like to summarize myself as a friendly person with great communication skills, Father, Technology Lover with a Computer Science degree.
-
-I'm Skilled in Python, Service Professional, Network Devices, Self learning, Works independently/in an highly collaborative team environment.  
+Graduated in Electronics Engineering specializing in embedded computer systems, ranked in the top quarter, and looking for a Junior position as an FPGA Engineer.
 
 You can contact me on:  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matan-leizerovich-fpga-engineer/) 
