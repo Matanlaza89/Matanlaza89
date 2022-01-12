@@ -6,7 +6,7 @@
 
 ⭐ I shared my personal projects on an FPGA development kit.
 
-🎯 looking for a Junior position as an FPGA Engineer.
+🎯 Looking for a Junior position as an FPGA Engineer.
 
 <hr>
 
